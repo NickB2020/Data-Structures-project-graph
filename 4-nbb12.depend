@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1637038449 source:c:\users\klaus\desktop\ds fall\4-nbb12\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<fstream>
+	<limits>
+
+1637038443 source:c:\users\klaus\desktop\ds fall\4-nbb12\graphmethods.cpp
+	<iostream>
+	<vector>
+	<list>
+	<fstream>
+	<limits>
+
